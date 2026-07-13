@@ -1,0 +1,19 @@
+paths:
+  raw_data_dir: data/raw
+  processed_data_dir: data/processed
+  reports_dir: reports
+  notebooks_dir: notebooks
+
+data:
+  adjust: qfq
+  default_years: 5
+
+backtest:
+  initial_cash: 100000
+  position_ratio: 0.9
+  commission_rate: 0.001
+
+screener:
+  years: 2
+  rsi_min: 40
+  rsi_max: 70

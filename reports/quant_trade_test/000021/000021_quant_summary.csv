@@ -1,0 +1,2 @@
+﻿symbol,name,start_date,end_date,initial_cash,final_equity,total_return_pct,annual_return_pct,max_drawdown_pct,sharpe_ratio,trade_count,win_rate_pct,profit_factor
+000021,000021,2023-06-29,2026-07-08,100000.0,156637.84,56.6378,15.9785,-21.0364,0.7619,19,47.3684,2.1346
